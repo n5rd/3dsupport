@@ -1,6 +1,6 @@
 The start of a repo collecting all of found knowledge for 3d printer issues and tips
 
-n5rd
+**n5rd**
 ^ discord - for any direct questions or support needed
 
 
